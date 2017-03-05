@@ -1,0 +1,5 @@
+-There is a lot of material covered in module two so do all the homework, it helps.
+-Make time in your schedule to do assignments more than once.
+-Immerse yourself more in the Turing community this module.
+-You will face new challenges working in a larger group on projects. Take time to plan out your group projects before you start writing code.
+-Stay around campus when it's not mandatory class time. There's a lot of knowledge here.
